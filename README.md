@@ -8,7 +8,7 @@
 
 
   # Personal Portfolio 🔥
-> https://nishaSahuU.github.io/
+>  https://nishasahuu.github.io/potfolio/
 
 :star: Star me on GitHub — it helps!
 
