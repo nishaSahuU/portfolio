@@ -130,6 +130,7 @@ a {
 
 a:hover {
     text-decoration: none;
+    color: #ffba00;
 }
 
 .clearfix:after {
@@ -202,26 +203,21 @@ img {
 }
 
 @media screen and (max-width: 420px) {
-    .title {
+    .title--top {
+        margin: 0 3%;
         width: 87.5%;
         margin: 0 6.25%;
-        top: 20rem;
+        top: 9rem;
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
         bottom: 8rem
     }
 
-    .title--top {
-        margin: 0 13%
+    .title__text {
+        font-size: 3rem;
     }
 }
 
-@media screen and (max-width: 410px) {
-
-    .title {
-        top: 29rem;
-    }
-}
 
 .title__text {
     font-size: 7rem;
@@ -251,6 +247,19 @@ img {
         font-size: 5.4rem;
         text-shadow: 0 10px 30px rgba(2, 11, 22, 0.5);
         margin-bottom: 0.1rem
+    }
+}
+
+@media screen and (max-width: 410px)and(min-width:260px) {
+
+    .title--top {
+        margin: 0 3%;
+        width: 87.5%;
+        margin: 0 6.25%;
+        top: 9rem;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        bottom: 8rem
     }
 }
 
@@ -286,7 +295,7 @@ img {
 @media screen and (max-width: 800px) {
     .title .border span {
         width: 70px;
-        background: crimson
+        background: #ffba00
     }
 }
 
