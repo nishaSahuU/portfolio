@@ -54,7 +54,6 @@
 ## Tools Used 🛠️
 * <b>VsCode</b>
 * <b>Github</b> 
-* 
 
 
 # Technologies used 🛠️
