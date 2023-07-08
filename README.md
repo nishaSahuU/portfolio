@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="images/.png" align="center" height="150"></img>
+    <img src="assets/img/home.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> Nisha Sahu- Portfolio 🔥 </h1> 
