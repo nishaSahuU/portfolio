@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="./assets/img/home.png" align="center" height="150"></img>
+    <img src="assets/img/home.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> Nisha Sahu- Portfolio 🔥 </h1> 
@@ -14,15 +14,15 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="assets/img/home.png" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="assets/img/about.png" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="assets/img/project.png" width="900">
   
 
 
