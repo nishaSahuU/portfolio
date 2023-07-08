@@ -24,12 +24,6 @@
 #### Projects Page
 <img src="assets/img/project.png" width="900">
   
-
-
-:star: Star me on GitHub — it helps!\
-
-
-
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
