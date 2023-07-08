@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
+    <img src="images/.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> Nisha Sahu- Portfolio 🔥 </h1> 
@@ -8,14 +8,9 @@
 
 
   # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://nishaSahuU.github.io/
 
 :star: Star me on GitHub — it helps!
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 #### Home Page
@@ -35,12 +30,10 @@
 
 
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
-
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
-⚡️ Used JavaScript\
+⚡️ Used JavaScript
 
 ## Sections 📚
 ✔️ About\
@@ -59,16 +52,15 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* <b>VsCode</b>
+* <b>Github</b> 
+* 
 
 
 # Technologies used 🛠️
 
-- [React](https://reactjs.org/)
-- [graphql](https://graphql.org/)
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
-- [baseui](https://github.com/uber/baseweb)
-- [react-reveal](https://www.react-reveal.com/)
-- [styled-components](https://styled-components.com/)
-
+- [HTML]
+- [CSS]
+- [JavaScript]
+  
 
