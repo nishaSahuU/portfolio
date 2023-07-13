@@ -10,7 +10,7 @@
   # Personal Portfolio 🔥
 >  https://nishasahuu.github.io/potfolio/
 
-:star: Star me on GitHub — it helps!
+:star: Star me on GitHub.
 
 ### Website Preview
 #### Home Page
