@@ -14,16 +14,16 @@
 
 ### Website Preview
 #### Home Page
-<img src="[assets/img/home.png](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)" width="900">
-[img](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)
+
+![image](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)
 
 
 #### About Page
-<img src="assets/img/about.png" width="900">
+
 
 
 #### Projects Page
-<img src="assets/img/project.png" width="900">
+
   
 ## Features 📋
 ⚡️ Fully Responsive\
