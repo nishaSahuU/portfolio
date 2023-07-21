@@ -15,7 +15,7 @@
 ### Website Preview
 #### Home Page
 
-![image](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)
+![image width:800px](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)
 
 
 #### About Page
