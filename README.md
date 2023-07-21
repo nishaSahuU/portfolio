@@ -1,11 +1,5 @@
-<p align="center"> 
-    <img src="./assets/img/home.png" align="center" height="150"></img>
-</p>
-
 <h1 align="center"> Nisha Sahu- Portfolio 🔥 </h1> 
 <h3 align="center"> My Portfolio website </h3>
-
-
 
   # Personal Portfolio 🔥
 >  https://nishasahuu.github.io/potfolio/
@@ -16,14 +10,6 @@
 #### Home Page
 
 ![image](https://github.com/nishaSahuU/portfolio/assets/82632229/fb25585d-723e-4ebd-ac5a-2a0bdd806b3e)
-
-
-#### About Page
-
-
-
-#### Projects Page
-
   
 ## Features 📋
 ⚡️ Fully Responsive\
